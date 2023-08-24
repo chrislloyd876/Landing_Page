@@ -115,3 +115,9 @@ ul{
     font-weight: bolder;
     color: #1F2937;
 }
+
+/* Quote section */
+.quote{
+    margin-top: 50px;
+    background-color: #E5E7EB;
+}

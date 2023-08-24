@@ -6,3 +6,7 @@ Added 2 more sections to the webpage:
 2) The quote section 
 
 All editing for these sections have been completed.
+
+Added the call to action section and the footer.
+
+All CSS changes have been completed.

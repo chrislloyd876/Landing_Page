@@ -69,6 +69,7 @@ button{
     font-weight: bold;
     padding: 5px 25px;
     border-radius: 5px;
+    border: none;
 }
 
 a{
@@ -140,4 +141,41 @@ ul{
     margin-top: 30px;
     font-weight: bold;
     font-size: 16px;
+}
+
+/* call-to-action section */
+.container{
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+}
+
+.call{
+    width: 900px;
+    background-color: #3882F6;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 12px;
+    padding: 30px;
+    color: white;
+}
+
+.cbold{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.call button{
+    border: 1px solid white;
+}
+
+.ctext{
+    font-weight: 100;
+}
+
+footer{
+    background-color: #1F2937;
+    color:#E5E7EB;
+    text-align: center;
+    padding: 20px;
 }
